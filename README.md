@@ -1,9 +1,9 @@
 <div align="center" style="max-width: 600px; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; color: white; background-color: black; padding: 20px; border-radius: 12px;">
-  <img src="https://i.pinimg.com/736x/f1/d9/69/f1d969e0de3c0faaf272cae493f71a95.jpg" alt="banner" style="border-radius: 12px; width: 100%; max-width: 560px; max-height: 180px; height: auto;">
+  <img src="https://i.pinimg.com/736x/f1/d9/69/f1d969e0de3c0faaf272cae493f71a95.jpg" alt="banner" style="border-radius: 12px; width: 100%; max-width: 560px; max-height: 180px; height: 150px;">
   <br>
   <img src="https://github.com/GdhcReal/GdhcReal/blob/main/Untitled.png?raw=true" alt="wmnd" style="margin-top: 20px; width: 100%; max-width: 560px;">
   
-  <div style="margin-top: 18px; display: flex; justify-content: center; gap: 28px;">
+  <div style="margin-top: 18px; display: flex; justify-content: center; gap: 50px;">
     <a href="https://discordapp.com/users/694372936206909471" target="_blank" rel="noopener noreferrer" aria-label="Discord" style="color: white;">
       <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" style="width: 48px; height: 48px; vertical-align: middle; cursor: pointer;">
     </a>
