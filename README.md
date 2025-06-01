@@ -1,5 +1,5 @@
 <div align="center" style="max-width: 600px; font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; color: white; background-color: black; padding: 20px; border-radius: 12px;">
-  <img src="https://i.pinimg.com/736x/f1/d9/69/f1d969e0de3c0faaf272cae493f71a95.jpg" alt="banner" style="border-radius: 12px; width: 100%; max-width: 560px; max-height: 180px; height: 250px;">
+  <img src="https://i.pinimg.com/736x/f1/d9/69/f1d969e0de3c0faaf272cae493f71a95.jpg" alt="banner" style="border-radius: 12px; width: 100%; max-width: 560px; max-height: 180px; height: auto;">
   <br>
   <img src="https://github.com/GdhcReal/GdhcReal/blob/main/Untitled.png?raw=true" alt="wmnd" style="margin-top: 20px; width: 100%; max-width: 560px;">
   
